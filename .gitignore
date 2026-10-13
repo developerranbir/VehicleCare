@@ -1,0 +1,17 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.local
+*.tsbuildinfo
+android/.gradle/
+android/**/build/
+android/local.properties
+ios/**/xcuserdata/
+ios/**/DerivedData/
+*.jks
+*.keystore
+*.p12
+*.mobileprovision
+.env*
+gradle.properties.local
